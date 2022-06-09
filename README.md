@@ -1,3 +1,5 @@
+<samp>
+
 # sentiment-analysis-dataset [Swahili]
 
 Swahili sentiment analysis dataset is the dataset training binary (positive or negative) sentiment analysis model.
@@ -39,3 +41,5 @@ All the credits  to
 
 1. [Jinamizi](https://github.com/Jinamizi/)
 2. [Kalebu](https://github.com/kalebu/)
+
+</samp>
