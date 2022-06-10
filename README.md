@@ -23,7 +23,7 @@ This data you see in ```swahili.csv``` is but results of cleaning and back-trans
 >>>
 ```
 
-This is data that has been used to [Swahili-Sentiment-Analysis](https://huggingface.co/spaces/neurotech/Swahili-sentiment-analysis) model.
+We also used the same data to train [Swahili-Sentiment-Analysis](https://huggingface.co/spaces/neurotech/Swahili-sentiment-analysis) model.
 
 ## Issues
 
