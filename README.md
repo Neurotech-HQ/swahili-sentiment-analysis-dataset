@@ -4,7 +4,9 @@
 
 Swahili sentiment analysis dataset is the dataset training binary (positive or negative) sentiment analysis model.
 
-This data you see in ```swahili.csv`` is but results of cleaning of data found on an opensource repository titled [**Swahili-sentiment-analysis**](https://github.com/Jinamizi/Swahili-sentiment-analysis) by [jinamizi](https://github.com/Jinamizi/).
+This data you see in ```swahili.csv``` is but results of cleaning and back-translation of data found on an opensource repository titled [**Swahili-sentiment-analysis**](https://github.com/Jinamizi/Swahili-sentiment-analysis) by [jinamizi](https://github.com/Jinamizi/).
+
+>This is the same data that was used to train [Spark NLP | Swahili Sentiment analysis model](https://nlp.johnsnowlabs.com/2021/12/29/classifierdl_xlm_roberta_sentiment_sw.html).
 
 ## Here a preview of the data
 
